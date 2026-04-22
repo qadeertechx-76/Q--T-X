@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 // Add Your Session Id Start With KIRA-MD Hear
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "IK~c3pAiBwI#P_KvIvqf95Y6MUJ8oXGqKTmS9sD51VlT-bqXlkkfVhY",
 // KIRA MD Api Site Url
 API_BASE: process.env.API_BASE || "https://arslan-apis.vercel.app/",
 // KIRA MD Api Key -- Add This To Your Api Key Form Api Site
