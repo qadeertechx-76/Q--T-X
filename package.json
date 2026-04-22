@@ -4,9 +4,9 @@
   "description": "QADEER-KING WhatsApp bot created by QADEER-KING Official",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KIRA-MD",
-    "stop": "pm2 stop KIRA-MD",
-    "restart": "pm2 restart KIRA-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name QADEER-KING",
+    "stop": "pm2 stop QADEER-KING",
+    "restart": "pm2 restart QADEER-KING"
   },
   "dependencies": {
     "@dark-yasiya/news-scrap": "latest",
